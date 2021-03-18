@@ -22,7 +22,7 @@ redis分布式锁，基于springboot2使用
 <dependency>
     <groupId>cn.javasalon</groupId>
     <artifactId>keylock</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 </dependency>    
 ```   
 2. 注解示例
